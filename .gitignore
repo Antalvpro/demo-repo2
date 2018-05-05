@@ -1,1 +1,5 @@
-ide-config
+ide-config2
+ide-config*
+/config/
+.class
+/node_modules/
